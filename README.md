@@ -3,9 +3,11 @@
 This project uses the react react to create a weather app where the user is prompted to enter a valid zipcode.  Once the user inputs the zipcode the application makes a call to Google's Maps API to lat/log of the zipcode. This is needed in order to make a request to the National Weather Service API in order to get the x and y grid coordinate of the desired area of interest.  The application finally makes a call to the National Weather Service API to get the hourly forcast which is then displayed on the screen. The users last valid zipcode is stored in the browser so when they return page it will automatically fetch the weather.  The user can toggle between temperature scales of fahrenheit or celsius.  There is also a share button where the user can copy the url and send it to others (provided this is served on a public domain).
 
 ## Future enhancements:
-*allow display to toggle between daily, and hourly view
-*persist user's temperature scale perference 
-*share link to persist temperature scale
+1. Allow display to toggle between daily, and hourly view
+
+2. Persist user's temperature scale perference 
+
+3. Share link to persist temperature scale
 
 ## Available Scripts
 
