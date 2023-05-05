@@ -12,7 +12,7 @@ function App() {
   const urlParams = new URLSearchParams(queryString);
   let defaultZip = urlParams.get('zipcode') || localStorage.getItem("zipcode") || '';
 
-  const googleMapsAPIKey = 'AIzaSyAvqIsxO_tC_U95S_9XCMjzSbfwmH6nKZ0';
+  const googleMapsAPIKey = '[GOOGLE_API_KEY]';
   const [forcast, setForcast] = useState([]);
   const [selectedTemp, setRadioValue] = useState('fahrenheit');
   const [zipCode, setZipCode] = useState(defaultZip);
