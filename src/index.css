@@ -1,0 +1,50 @@
+body {
+  /* background-image: url("/public/background.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed; */
+  background-color: lightblue !important;
+}
+
+.day-header{
+  font-size: 18px;
+  margin: 0pauto;
+  padding-top: 20px;
+}
+
+.location {
+  font-weight: bold;
+  font-size: 20px;
+  margin: 0 auto;
+  padding: 0 35px;
+}
+
+.location .title {
+  text-align: left;
+}
+
+.share-link {
+  font-size: 14px;
+}
+
+.share-copy {
+  color:crimson;
+  font-size: 12px;
+}
+
+.temp-header{
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.weather-section{
+  background-color: rgba(255,255,255,0.5);
+  border-radius: 12px;
+  margin: 0 25px 25px;
+  padding-bottom: 15px;
+}
+
+.input-group{
+  margin: 0 auto;
+  width: 21% !important;
+}
