@@ -9,6 +9,17 @@ This project uses the react react to create a weather app where the user is prom
 
 3. Share link to persist temperature scale
 
+## Run the Application
+1. Git clone or unzip the project files
+
+2. In the root directory run npm install
+
+3. Add google API key in App.js
+
+4. Run npm start
+
+5. Naviagte to http://localhost:3000/
+
 ## Available Scripts
 
 ### `npm start`
