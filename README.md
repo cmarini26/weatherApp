@@ -14,7 +14,7 @@ This project uses the react react to create a weather app where the user is prom
 
 2. In the root directory run npm install
 
-3. Add google API key in App.js
+3. Add google API key in App.js [Obtain Key](https://developers.google.com/maps/documentation/maps-static/get-api-key)
 
 4. Run npm start
 
