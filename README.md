@@ -1,10 +1,7 @@
-# Getting Started with Create React App
+# Simple Weather App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This project uses the react react to create a weather app where the user is prompted to enter a valid zipcode.
 ## Available Scripts
-
-In the project directory, you can run:
 
 ### `npm start`
 
